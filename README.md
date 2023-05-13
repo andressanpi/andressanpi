@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @andressanpi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-andressanpi/andressanpi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 👋 Hello my name is Andres Pinilla,
+ I am from Colombia,
+ I am very interested in development in the technological area,
+ I am currently studying analysis and development,
+ my goal is to learn backend and cyber security
+:) 
